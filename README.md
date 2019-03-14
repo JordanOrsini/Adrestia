@@ -1,7 +1,7 @@
 # Adrestia
 
 Due to the large amount of assets our project uses, depending on the speed of your computer the Unity project may take up to 30 minutes to first compile.
-The game can be run by launching the MenuScene.Scene file located in the Assets/Scenes directory of the project. From here you have access to all content.
+The game can be run by launching the MenuScene.unity file located in the Assets/Scenes directory of the project. From here you have access to all content.
 
 ## Basic Controls:
 * Escape: 
